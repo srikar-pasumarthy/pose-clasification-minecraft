@@ -16,9 +16,8 @@ Go ahead and start minecraft and jump into a new world. Once you have everything
 
 ### Movement/Keys
 At the moment, I have it programmed so that...
-- **Saluting** 
-- **Doing a T-pose with right arm down**
-- **Doing a T-pose with left arm down**
+- **Saluting with right arm** moves the player to the right
+- **Saluting with left arm** moves the player to the left
 
 ## TODO
 - Speed up pyautogui as it is the bottleneck
